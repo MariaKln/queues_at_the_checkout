@@ -26,4 +26,4 @@ end_operation_dt
 
 ### Решение:
 
-[Ссылка на файл с решением](https://github.com/MariaKln/jewelry_store_sales_analysis/blob/main/fullscreen_1_tab.png)
+[Ссылка на файл с решением](https://github.com/MariaKln/queues_at_the_checkout/blob/main/retail_task.sql)
